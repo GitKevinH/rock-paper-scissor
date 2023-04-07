@@ -87,7 +87,7 @@ function playGame(player1, player2, playUntil) {
   }
 }
 
-playTournament(player1,player2,player3,player4,1)
+playTournament(player1,player2,player3,player4,1) // Calls function to play with 4 players for one decisive game.
 
 function playTournament(player1,player2,player3,player4,playUntil){
 
